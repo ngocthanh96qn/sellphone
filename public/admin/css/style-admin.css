@@ -1,0 +1,48 @@
+
+.search-new {
+	font-family: serif;
+	
+	width: 330px;
+	margin-bottom: 10px;
+	float: left;
+}
+.search-new label {
+	width: 80px;
+	float: left;
+	margin-right: 20px;
+}
+.search-new input {
+	width: 200px;
+}
+.add{
+	font-family: serif;
+}
+.main {
+clear: both;
+font-family: sans-serif;
+
+}
+ .category-1{
+ 	font-family: serif;
+	width: 800px;
+	
+ 	margin: 30px auto;
+ 	border: 1px solid gray;
+}
+.category-2{
+ 	font-family: serif;
+	width: 500px;
+}
+
+.abc label{
+	font-family: serif;
+	width: 130px;
+	margin-left: 15px;
+	float: left;
+
+}
+.abc p{
+	font-family: serif;
+	width: 400px;
+	border-bottom: 1px solid gray;
+}
